@@ -14,3 +14,15 @@ PopupWindow控件的一次总结
 带有很好的动画的popupwindow  
 ![](/gif/newquickaction.gif)
 
+##actionlikepopup
+根据点击位置的不同，实现不同的弹出方式以及动画。  
+![](/gif/actionlikepopup.gif)
+
+##crouton
+提个很好的可以作为toast替换的提示方案。  
+![](/gif/crouton.gif)
+
+##supertooltips（代码不完整~~）
+带动画效果的tips显示。  
+
+github: https://github.com/nhaarman/supertooltips
