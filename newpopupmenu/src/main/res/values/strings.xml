@@ -1,0 +1,10 @@
+<!--
+  ~ Copyright (C) 2016 Baidu, Inc. All Rights Reserved.
+  -->
+<resources>
+    <string name="app_name">NewPopupMenu</string>
+
+    <string name="play">Play</string>
+    <string name="add_to_playlist">Add to playlist</string>
+    <string name="search">Search</string>
+</resources>

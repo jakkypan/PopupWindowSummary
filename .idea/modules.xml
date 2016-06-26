@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/actionlikepopup/actionlikepopup.iml" filepath="$PROJECT_DIR$/actionlikepopup/actionlikepopup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crouton/crouton.iml" filepath="$PROJECT_DIR$/crouton/crouton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newpopupmenu/newpopupmenu.iml" filepath="$PROJECT_DIR$/newpopupmenu/newpopupmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newquickaction/newquickaction.iml" filepath="$PROJECT_DIR$/newquickaction/newquickaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openSource.iml" filepath="$PROJECT_DIR$/openSource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/popupwindowdemo/popupwindowdemo.iml" filepath="$PROJECT_DIR$/popupwindowdemo/popupwindowdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supertooltips/supertooltips.iml" filepath="$PROJECT_DIR$/supertooltips/supertooltips.iml" />
+    </modules>
+  </component>
+</project>

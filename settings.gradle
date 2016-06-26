@@ -1,0 +1,1 @@
+include ':app', ':newpopupmenu', ':popupwindowdemo', ':supertooltips', ':actionlikepopup', ':newquickaction', ':crouton'
